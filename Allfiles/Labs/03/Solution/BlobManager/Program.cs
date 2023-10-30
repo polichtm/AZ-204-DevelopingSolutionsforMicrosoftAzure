@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 public class Program
 {
     //Update the blobServiceEndpoint value that you recorded previously in this lab.        
-    private const string blobServiceEndpoint = "https://mediastormp2310.blob.core.windows.net/";
+    private const string blobServiceEndpoint = "";
 
     //Update the storageAccountName value that you recorded previously in this lab.
-    private const string storageAccountName = "mediastormp2310";
+    private const string storageAccountName = "";
 
     //Update the storageAccountKey value that you recorded previously in this lab.
-    private const string storageAccountKey = "xBMLU+d7gQluKtuIj3ph2yB7HGQ2uKSvKFRHgwX+CQQM5fH1sKIoOxPS32d+vfLjHf9jyqh7ilTj+AStPPwjcQ==";    
+    private const string storageAccountKey = "";    
 
 
     //The following code to create a new asynchronous Main method
